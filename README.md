@@ -41,6 +41,10 @@ Support me
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
 
+# Welcome to Remix!
+
+- [Remix Docs](https://remix.run/docs)
+
 ## Development
 
 From your terminal:
@@ -90,10 +94,6 @@ rm -rf app
 # copy your app over
 cp -R ../my-old-remix-app/app app
 ```
-
-###
-<h1 style="text-align: center;"><a href="https://lrmn.is-a.dev/">#LRMN</a></h1>
-
 <div align="center">
   <img width="80%" src="https://res.cloudinary.com/lrmn/image/upload/v1686295609/lrmn.dev/gen_zjicnw.png">
 </div> 

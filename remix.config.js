@@ -4,9 +4,8 @@ module.exports = {
     unstable_tailwind: true,
   },
 
-  ignoredRouteFiles: ["**/.*"],
-  // appDirectory: "app",
-  // assetsBuildDirectory: "public/build",
-  // serverBuildPath: "build/index.js",
-  // publicPath: "/build/",
+  appDirectory: "app",
+  assetsBuildDirectory: "public/build",
+  serverBuildPath: "build/index.js",
+  publicPath: "/build/",
 };
