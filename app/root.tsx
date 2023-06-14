@@ -20,13 +20,13 @@ export const meta: MetaFunction = () => ({
   description: "Design eye-catching open graph images in seconds.",
 
   ...getOGTags({
-    site_url: "https://getog.vercel.app",
+    site_url: "https://lrmn-og.is-a.fun",
     title: "GetOG — OG image generator. 🔮",
     description: "Design eye-catching open graph images in seconds.",
     width: "2400",
     height: "1280",
     image_type: "image/png",
-    image_url: "https://getog.vercel.app/og.png",
+    image_url: "https://lrmn-og.is-a.fun/og.png",
   }),
 });
 

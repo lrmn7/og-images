@@ -18,7 +18,7 @@ export const loader: LoaderFunction = async ({ request }) => {
         title: "Stay curious.",
         description:
           "Discover stories, thinking, and expertise from writers on any topic.",
-        author: "LRMN.dev",
+        author: "L RMN",
         logo_url:
           "https://res.cloudinary.com/lrmn/image/upload/v1685525452/lrmn_lhq5i4.png",
         hero_url:
