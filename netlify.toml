@@ -1,8 +1,0 @@
-[build]
-  command = "yarn build"
-  publish = "public/build"
-
-[[redirects]]
-  from = "/*"
-  to = "/build/:splat"
-  status = 200
