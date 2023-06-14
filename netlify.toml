@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/build/:splat"
+  to = "/build/index.js"
   status = 200
